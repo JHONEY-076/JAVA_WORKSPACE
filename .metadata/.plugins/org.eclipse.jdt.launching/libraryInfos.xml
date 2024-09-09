@@ -14,6 +14,7 @@
     </libraryInfo>
     <libraryInfo home="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64 (1)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" version="21.0.3"/>
     <libraryInfo home="C:\Program Files\openjdk-22.0.2_windows-x64_bin\jdk-22.0.2" version="22.0.2"/>
+    <libraryInfo home="C:\MyProgram\openjdk-22.0.2_windows-x64_bin\jdk-22.0.2" version="22.0.2"/>
     <libraryInfo home="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64 (1)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" version="21.0.3">
         <bootpath>
             <entry path="null"/>
@@ -25,5 +26,17 @@
             <entry path="null"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\MyProgram\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" version="21.0.3">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\MyProgram\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" version="21.0.3"/>
     <libraryInfo home="C:\Program Files\jdk-22.0.2" version="22.0.2"/>
 </libraryInfos>
