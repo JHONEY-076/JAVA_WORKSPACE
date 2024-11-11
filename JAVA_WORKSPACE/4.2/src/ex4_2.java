@@ -26,12 +26,7 @@ public class ex4_2 {
 	
 	
 	public boolean isZero() {
-        if(row==0&&colum==0&&height==0) { 
-        	return true;
-        }
-        else {
-        	return false;
-        }
+        return row == 0 && colum == 0 && height == 0;
     }
 	
 

@@ -11,7 +11,7 @@ public class ex3_3 {
 		System.out.print("양의 정수 입력>>");
 		int a =scanner.nextInt();
 		
-		while(a<0) {
+		while(a<=0) {
 			System.out.print("양의 정수 입력>>");
 			scanner.nextLine();
 			a =scanner.nextInt();
@@ -24,16 +24,6 @@ public class ex3_3 {
 			System.out.print("\n");
 			
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
 		
 	}
 
