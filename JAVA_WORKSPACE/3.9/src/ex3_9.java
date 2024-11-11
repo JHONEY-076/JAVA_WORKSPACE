@@ -8,8 +8,8 @@ public class ex3_9 {
 		System.out.println("4x4 배열에 랜덤한 값을 저장한 후 출력합니다.");
 		
 		
-		for(int i=0;i<4;i++) {
-			for(int j=0;j<4;j++) {
+		for(int i=0;i<arr.length;i++) {
+			for(int j=0;j<arr[i].length;j++) {
 				arr[i][j]=(int)(Math.random()*255);
 			}
 			
