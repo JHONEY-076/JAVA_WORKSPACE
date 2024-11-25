@@ -18,7 +18,7 @@ class ColorPoint1 extends Point1{
 	private String color;
 	
 	public ColorPoint1(int x, int y, String color) {
-		super(x,y);
+		super(x,y); // 슈퍼 클래스 생성자의 매개변수를 전달할수 있음.
 		this.color=color;
 	}
 	
