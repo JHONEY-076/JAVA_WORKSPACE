@@ -14,6 +14,9 @@ public class ArrayLength {
 		
 		for(int i=0;i<arr.length;i++) {
 			arr[i]=scanner.nextInt();
+			if(arr[i]<0) {
+				continue;
+			}
 			sum+=arr[i];
 		}
 		
