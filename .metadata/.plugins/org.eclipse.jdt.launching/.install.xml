@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" stamp="1725260423423"/>
-    <entry loc="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" stamp="1725260413391"/>
-    <entry loc="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64 (1)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" stamp="1725262362317"/>
-    <entry loc="C:\Program Files\openjdk-22.0.2_windows-x64_bin\jdk-22.0.2" stamp="1725258993741"/>
     <entry loc="C:\MyProgram\openjdk-22.0.2_windows-x64_bin\jdk-22.0.2" stamp="1725282697577"/>
-    <entry loc="C:\MyPrograms\eclipse-jee-2024-06-R-win32-x86_64 (1)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" stamp="1725262358667"/>
     <entry loc="C:\MyProgram\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530" stamp="1725283332862"/>
     <entry loc="C:\MyProgram\eclipse-jee-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre" stamp="1725283342290"/>
-    <entry loc="C:\Program Files\jdk-22.0.2" stamp="1725258531741"/>
 </dirs>

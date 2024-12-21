@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="&#x09;&#x09;String city= scanner.next(); //문자열 읽기"/>
+		<item key="selection" value="//&#x09;&#x09;SmartTV smartTV=new SmartTV(&quot;192.168.0.5&quot;,77,20000000);"/>
 		<list key="findhistory">
+			<item value="//&#x09;&#x09;SmartTV smartTV=new SmartTV(&quot;192.168.0.5&quot;,77,20000000);"/>
 			<item value="&#x09;&#x09;String city= scanner.next(); //문자열 읽기"/>
 			<item value="//&#x09;&#x09;String name=scanner.next(); // 문자열 읽기"/>
 			<item value="&#x09;&#x09;"/>
